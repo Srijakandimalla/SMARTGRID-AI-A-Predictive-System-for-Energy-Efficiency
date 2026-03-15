@@ -199,5 +199,5 @@ print(f"Equivalent trees planted: {int(co2_saved_tonnes * 45)}")
 
 print("\nGraphs saved:")
 print("model_performance.png")
-print("feature_importance.png")
+
 
